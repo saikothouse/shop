@@ -18,7 +18,7 @@ const Layout = ({ children }) => {
     return (
         <div className="flex flex-col min-h-screen bg-gray-100">
             <Head>
-                <title>My E-Commerce Site</title>
+                <title>Nullbite</title>
                 <meta name="description" content="Welcome to the best e-commerce site for all your needs." />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
