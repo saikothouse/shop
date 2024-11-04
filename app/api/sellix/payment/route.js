@@ -1,5 +1,7 @@
 import axios from 'axios';
 
+export const runtime = 'edge';
+
 const SELLIX_API_URL = 'https://dev.sellix.io/v1';
 
 export async function POST(req) {
